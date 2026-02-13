@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "DSA Dailly Pratice"
 include(":app")
- 
+include(":lib")
